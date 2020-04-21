@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-21T13:14:45 IST" name="Default suite" finished-at="2020-04-21T13:15:22 IST" duration-ms="37590">
+    <groups>
+    </groups>
+    <test started-at="2020-04-21T13:14:45 IST" name="Default test" finished-at="2020-04-21T13:15:22 IST" duration-ms="37590">
+      <class name="com.basic.automation.chanchal.LoginTest">
+        <test-method signature="loginMethod()[pri:0, instance:com.basic.automation.chanchal.LoginTest@3b2cf7ab]" started-at="2020-04-21T13:14:45 IST" name="loginMethod" finished-at="2020-04-21T13:15:22 IST" duration-ms="37267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod -->
+      </class> <!-- com.basic.automation.chanchal.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
